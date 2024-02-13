@@ -24,5 +24,6 @@
 <br/>
 
 ![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <hr/>
