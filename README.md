@@ -4,6 +4,8 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align='center'>
   <a href="https://github.com/kyechan99/capsule-render/labels/Idea">
