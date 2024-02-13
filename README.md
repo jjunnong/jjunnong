@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+<br/>
 
 <p align="center"> 
   <a href="README.md">English</a> 
@@ -21,6 +22,8 @@
 </p>
 <br/>
 
-![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140"/>
+</div>
 
 <hr/>
