@@ -1,4 +1,10 @@
- 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
 </p>
