@@ -23,11 +23,6 @@
 </p>
 <br/>
 
-
-# Demo <a id="demo">
-
-## Shark <a id="shark">
-
 ![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=140)
 
 <hr/>
